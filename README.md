@@ -86,10 +86,6 @@ You can download the our immediate results from the [link](https://drive.google.
 ![alt text](asset/image1.png)
 ![alt text](asset/image2.png)
 
-## 📮 Contact
-                      
-If you have any questions for our paper or codes, please send an email to txy20010310@163.com.
-
 ## 🐦 Citing
 
 Please cite the following paper if you find our code helpful.
